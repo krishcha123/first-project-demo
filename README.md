@@ -1,2 +1,3 @@
 # first-project-demo
-This is mu first Git repository
+This is my first Git repository
+Author -  krishcha pokhrel
